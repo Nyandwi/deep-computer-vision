@@ -12,8 +12,9 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 - What is Computer Vision
 - Industrial Applications of Computer Vision
-- History of Computer Vision]- Typical Computer Vision Tasks
- - Challenges in Building - Computer Visions Systems
+- History of Computer Vision
+- Typical Computer Vision Tasks
+- Challenges in Building - Computer Visions Systems
 - Computer Vision Tools Landscape
 
 #### 2. Basics of Image Processing
@@ -42,7 +43,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 * Neural Networks and Biological Networks
 
-#### Image Classification with Artificial Neural Networks
+#### 4. Image Classification with Artificial Neural Networks
 
 * What is Image Classification?
 * Types of Image Classification Problems
@@ -52,11 +53,10 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 ### PART 2 - Convolutional Neural Networks
 
-#### Intro to Convolutional Neural Networks
+#### 5. Intro to Convolutional Neural Networks
 
 * Fully Connected Layers
 * Typical Components of ConvNets
-
     * Convolutional Layer
     * Pooling Layer
     * Fully Connected Layer
@@ -64,11 +64,11 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 * Other Types of Convolution Layers
 * Coding ConvNets:Cifar10 Classification
 
-#### Data Augmentation (Add the cutmix, mixup, etc...)
+#### 6. Data Augmentation (Add the cutmix, mixup, etc...)
 
-#### Visualizing and Interpreting ConvNets
+#### 7. Visualizing and Interpreting ConvNets
 
-### PART 3 - Modern ConvNets Architectures
+#### 8. Modern ConvNets Architectures
 
 * AlexNet - Deep Convolutional Neural Networks
   
@@ -98,17 +98,18 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 
 ### PART 4 - Object Detection and Segmentation
-* **Introduction to Object Detection**
-* **Modern Object Detectors In Practice**
-    * Vehicle Detection with Faster R-CNN
-    * Fruits Detection with RetinaNet
-    * Traffic and Road Signs Detection with Master R-CNN
 
-* **Introduction to Image Segmentation**
-* **Image Segmentation In Practice**
-    * Image Segmentation
-    * Instance Segmentation
-    * Panatonic Segmentation
+#### 9. Introduction to Object Detection
+#### 10. Modern Object Detectors In Practice
+* Vehicle Detection with Faster R-CNN
+* Fruits Detection with RetinaNet
+* Traffic and Road Signs Detection with Master R-CNN
+
+#### 11. Introduction to Image Segmentation
+#### 12. Image Segmentation In Practice
+* Semantic Segmentation
+* Instance Segmentation
+* Panatonic Segmentation
 
 
 

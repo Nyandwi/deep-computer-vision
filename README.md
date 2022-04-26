@@ -6,9 +6,9 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 ## Outline
 
-### PART 1 - Introduction to Computer Vision and Deep Learning
+### PART 1 - Foundations of Computer Vision and Deep Learning
 
-#### 1. Intro to Computer Vision
+#### 1. Introduction to Computer Vision
 
 - What is Computer Vision
 - Industrial Applications of Computer Vision
@@ -28,7 +28,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 * Drawing Bounding Boxes On Image
 * Image Histograms and Histograms Equalization
 
-#### 3. Introduction to Deep Learning
+#### 3. Fundamentals of Deep Learning
 * What is Neural Networks and Deep Learning?
 * The History of Neural Networks
 * Types of Neural Networks Architectures
@@ -64,11 +64,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 * Other Types of Convolution Layers
 * Coding ConvNets:Cifar10 Classification
 
-#### 6. Data Augmentation (Add the cutmix, mixup, etc...)
-
-#### 7. Visualizing and Interpreting ConvNets
-
-#### 8. Modern ConvNets Architectures
+#### 6. Modern ConvNets Architectures
 
 * AlexNet - Deep Convolutional Neural Networks
   
@@ -95,6 +91,9 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 * ConvMixer - Patches are All You Need?
 
 * ConvNeXt - A ConvNet for the 2020s
+
+#### 7. Transfer Learning with Pretrained ConvNets
+#### 8. Visualizing and Interpreting ConvNets
 
 
 ### PART 4 - Object Detection and Segmentation

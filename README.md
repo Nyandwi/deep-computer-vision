@@ -1,6 +1,6 @@
 # Deep Learning for Computer Vision
 
-Visual data(such as images, video) are everywhere. Rougly, millions of visual data are generated everyday. For instance, everyday, 95 million photos and 720.000 hours of videos are uploaded on Instagram and YouTube respectively. Computer Vision has given us different ways to process and understand such massive datasets and that has led to many interesting applications from medical diagnosis, autonomous vehicles such as self-driving cars and drones, image search based applications, etc...The three most important visual recognition tasks are image classification, object detection, and image segmentation. Thanks to the latest advances in deep learning techniques; softwares; and algorithms, it's now possible to build, train, and evaluate visual recognition systems on large scale datasets.
+Visual data(such as images, video) are everywhere. Rougly, millions of visual data are generated everyday. For instance, everyday, 95 million photos and 720.000 hours of videos are uploaded on Instagram and YouTube respectively. Computer Vision equipes us with different ways to process and understand such massive datasets. Nowdays, Computer Vision is used in many real-world applications such as medical diagnosis, autonomous vehicles such as self-driving cars and drones, etc...The three most important visual recognition tasks are image classification, object detection, and image segmentation. Thanks to the latest advances in deep learning techniques; softwares; and algorithms, it's now possible to build, train, and evaluate visual recognition systems on large scale datasets.
 
 This is Deep Learning for Computer Vision Package. It is designed exactly like Complete Machine Learning Package, but it's even better. It covers foundations of computer vision and deep learning, different neural network architectures(including latest state-of-the-art stuffs), techniques, tips and tricks for training and analyzing visual recognition systems.
 
@@ -95,11 +95,14 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 #### 7. Transfer Learning with Pretrained ConvNets
 #### 8. Visualizing and Interpreting ConvNets
 
-
 ### PART 4 - Object Detection and Segmentation
 
 #### 9. Introduction to Object Detection
-#### 10. Modern Object Detectors In Practice
+#### 10. Object Detection with Detectron2
+* Overview of Detectron2
+* Detectron2 Model Zoo
+* Performing Inference with Pretrained Detector
+#### 11. Modern Object Detectors in Practice
 * Vehicle Detection with Faster R-CNN
 * Fruits Detection with RetinaNet
 * Traffic and Road Signs Detection with Master R-CNN

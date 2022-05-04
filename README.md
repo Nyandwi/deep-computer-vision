@@ -113,7 +113,15 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 * Instance Segmentation
 * Panatonic Segmentation
 
+#### 13. Introduction to Human pose estimation
+#### 14.  Human pose estimation In Practice
+*  Human pose estimation with Detectron2
 
+### PART 5 - 3D Computer Vision
 
-
+#### 15. 3D representations & 3D shape from images
+*  Introduction to 3D Operators
+#### 16. Differentiable Rendering
+*  Introduction to Textured Rendering
+*  Introduction to Silhouette Rendering
 

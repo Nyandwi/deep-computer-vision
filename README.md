@@ -4,6 +4,8 @@ Visual data(such as images, video) are everywhere. Rougly, millions of visual da
 
 This is Deep Learning for Computer Vision Package. It is designed exactly like Complete Machine Learning Package, but it's even better. It covers foundations of computer vision and deep learning, different neural network architectures(including latest state-of-the-art stuffs), techniques, tips and tricks for training and analyzing visual recognition systems.
 
+Deep Learning for Computer Vision Package is less about tools but more about understanding the designs of computer vision systems. Where we use a particular tool, it's merely about practice and the best tool for that. There are sections where we use TensorFlow and tools that runs on top of it, or tools that run on top of PyTorch such as Detectron2.
+
 ## Outline
 
 ### PART 1 - Foundations of Computer Vision and Deep Learning
@@ -92,8 +94,8 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 * ConvNeXt - A ConvNet for the 2020s
 
-#### 7. Transfer Learning with Pretrained ConvNets
-#### 8. Visualizing and Interpreting ConvNets
+#### 7. Transfer Learning with Pretrained ConvNets(to be redifined)
+#### 8. Visualizing and Interpreting ConvNets(to be done)
 
 ### PART 4 - Object Detection and Segmentation
 
@@ -104,15 +106,14 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 * Performing Inference with Pretrained Detector
 #### 11. Modern Object Detectors in Practice
 * Vehicle Detection with Faster R-CNN
-* Fruits Detection with RetinaNet
-* Traffic and Road Signs Detection with Master R-CNN
+* License Plate Detection with RetinaNet(?)
+#### 12. A Brief Overview of Recent Object Detection State of the Arts(DETR, Pix2seq, etc...)(?)
 
-#### 11. Introduction to Image Segmentation
-#### 12. Image Segmentation In Practice
+#### 13. Introduction to Image Segmentation
+#### 14. Image Segmentation In Practice
 * Semantic Segmentation
 * Instance Segmentation
 * Panatonic Segmentation
-
 
 
 

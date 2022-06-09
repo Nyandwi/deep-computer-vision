@@ -55,9 +55,11 @@ For used tools, check tools overview. For further Computer Vision learning resou
 * Typical Hyperparameters for Image Classification Problems
 * Image Classification in Practice
 
+#### 5. Modern Data Augmentation Techniques(TBD)
+
 ### PART 2 - Convolutional Neural Networks
 
-#### 5. Intro to Convolutional Neural Networks
+#### 6. Intro to Convolutional Neural Networks
 
 * Fully Connected Layers
 * Typical Components of ConvNets
@@ -96,14 +98,13 @@ For used tools, check tools overview. For further Computer Vision learning resou
 
 * ConvNeXt - A ConvNet for the 2020s
 
-#### 7. Choosing a ConvNet Architecture - Size Vs Accuracy
+#### 8. Choosing a ConvNet Architecture - Size Vs Accuracy(TBD)
 
-#### 8. Transfer Learning with Pretrained ConvNets(to be redifined)
-#### 9. Visualizing ConvNets and Generating Images
+#### 9. Transfer Learning with Pretrained ConvNets(TBD)
+#### 10. Visualizing ConvNets and Generating Images(TBD)
 
 ### PART 4 - Object Detection
-#### 10. Introduction to Object Detection
-
+#### 11. Introduction to Object Detection
 * What is Object Detection
 * Classification Vs Detection Vs Segmentation
 * Applications of Object Detection](#3)
@@ -112,31 +113,22 @@ For used tools, check tools overview. For further Computer Vision learning resou
 * Object Detection Datasets and Tools Landscape
 * The Challenges of Object Detection
 
-#### 11. Object Detection with Detectron2
+#### 12. Object Detection with Detectron2
 
 * Overview of Detectron2
 * Detectron2 Model Zoo
 * Performing Inference with Pretrained Detector
 
-#### 12. Modern Object Detectors in Practice
+#### 13. Modern Object Detectors in Practice
 * Vehicle Detection with Faster R-CNN
 
 ### PART 5 - Pixel-Level Recognition
 
-#### 13. Introduction to Pixel Level Recognition
+#### 14. Introduction to Pixel Level Recognition
 
 * Pixel-level Recognition: Overview
 
-#### 13. Introduction to Image Segmentation
-#### 14. Image Segmentation In Practice
-* Semantic Segmentation
-* Instance Segmentation
-* Panoptic Segmentation
-* Pose Estimation
-* Modern Applications of Segmentation Tasks
-
-#### 14. Pixel-Level Recognition In Practice - Ongoing
-
+#### 15. Pixel-Level Recognition In Practice - Ongoing
 * Semantic Segmentation with DeepLabv3+ and PointRend
 * Instance Segmentation with Mask R-CNNN
 * Panatonic Segmentation with Panoptic FPN
@@ -144,14 +136,13 @@ For used tools, check tools overview. For further Computer Vision learning resou
 
 ### PART 6 - Recurrent Networks, Attention, and Vision Transformers
 
-#### 15. Recurrent Neural Networks
-
+#### 16. Recurrent Neural Networks
 * Introduction to Recurrent Neural Networks
 * The Downsides of Vanilla RNNs
 * Other Recurrent Networks: LSTMs & GRUs
 * Recurrent Networks for Computer Vision
 
-#### 16. Attention
+#### 17. Attention - Coming Up
 
 
 

@@ -8,7 +8,6 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 For used tools, check tools overview. For further Computer Vision learning resources, check further resources page.
 
-
 ## Outline
 
 ### PART 1 - Foundations of Computer Vision and Deep Learning
@@ -97,12 +96,17 @@ For used tools, check tools overview. For further Computer Vision learning resou
 
 * ConvNeXt - A ConvNet for the 2020s
 
+<<<<<<< HEAD
 #### 7. Choosing a ConvNet Architecture - Size Vs Accuracy
 
 #### 8. Transfer Learning with Pretrained ConvNets(to be redifined)
 #### 9. Visualizing ConvNets and Generating Images
 
 ### PART 4 - Object Detection
+=======
+#### 7. Transfer Learning with Pretrained ConvNets(to be redifined)
+#### 8. Visualizing and Interpreting ConvNets(to be done)
+>>>>>>> 1737b967f2d58730937f4dd7cffffe1670821c23
 
 #### 10. Introduction to Object Detection
 
@@ -122,12 +126,20 @@ For used tools, check tools overview. For further Computer Vision learning resou
 
 #### 12. Modern Object Detectors in Practice
 * Vehicle Detection with Faster R-CNN
+<<<<<<< HEAD
 
 ### PART 5 - Pixel-Level Recognition
 
 #### 13. Introduction to Pixel Level Recognition
 
 * Pixel-level Recognition: Overview
+=======
+* License Plate Detection with RetinaNet(?)
+#### 12. A Brief Overview of Recent Object Detection State of the Arts(DETR, Pix2seq, etc...)(?)
+
+#### 13. Introduction to Image Segmentation
+#### 14. Image Segmentation In Practice
+>>>>>>> 1737b967f2d58730937f4dd7cffffe1670821c23
 * Semantic Segmentation
 * Instance Segmentation
 * Panoptic Segmentation
@@ -151,7 +163,6 @@ For used tools, check tools overview. For further Computer Vision learning resou
 * Recurrent Networks for Computer Vision
 
 #### 16. Attention
-
 
 
 

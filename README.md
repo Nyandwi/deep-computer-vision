@@ -1,8 +1,13 @@
 # Deep Learning for Computer Vision
 
-Visual data(such as images, video) are everywhere. Rougly, millions of visual data are generated everyday. For instance, everyday, 95 million photos and 720.000 hours of videos are uploaded on Instagram and YouTube respectively. Computer Vision equipes us with different ways to process and understand such massive datasets. Nowdays, Computer Vision is used in many real-world applications such as medical diagnosis, autonomous vehicles such as self-driving cars and drones, etc...The three most important visual recognition tasks are image classification, object detection, and image segmentation. Thanks to the latest advances in deep learning techniques; softwares; and algorithms, it's now possible to build, train, and evaluate visual recognition systems on large scale datasets.
+Visual data(such as images, video) are everywhere. Rougly, millions of images and videos are generated everyday. For instance, everyday, 95 million photos and 720.000 hours of videos are uploaded on Instagram and YouTube respectively. Computer Vision equipes us with different ways to process and understand such massive datasets in different areas of applications such as self-driving cars, medicine, streaming websites, etc... 
 
-This is Deep Learning for Computer Vision Package. It is designed exactly like Complete Machine Learning Package, but it's even better. It covers foundations of computer vision and deep learning, different neural network architectures(including latest state-of-the-art stuffs), techniques, tips and tricks for training and analyzing visual recognition systems.
+Deep Learning has revolutionized Computer Vision. Thanks to the latest advances in deep learning techniques, frameworks, and algorithms, it's now possible to build, train, and evaluate visual recognition systems on real-world datasets.
+
+This is Deep Learning for Computer Vision Package. It is designed exactly like Complete Machine Learning Package, but it's even better. It covers foundations of computer vision and deep learning, state-of-the-arts visual architectures(such as ConvNets and Vision Transformer), various Computer Vision tasks(such as image classification, object detection and segmentation), tips and tricks for training and analyzing visual recognition systems.
+
+For used tools, check tools overview. For further Computer Vision learning resources, check further resources page.
+
 
 ## Outline
 
@@ -62,7 +67,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
     * Fully Connected Layer
 * Batch Normalization for ConvNets
 * Other Types of Convolution Layers
-* Coding ConvNets:Cifar10 Classification
+* Coding ConvNets: Cifar10 Classification
 
 #### 6. Modern ConvNets Architectures
 
@@ -92,26 +97,62 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 * ConvNeXt - A ConvNet for the 2020s
 
-#### 7. Transfer Learning with Pretrained ConvNets
-#### 8. Visualizing and Interpreting ConvNets
+#### 7. Choosing a ConvNet Architecture - Size Vs Accuracy
 
-### PART 4 - Object Detection and Segmentation
+#### 8. Transfer Learning with Pretrained ConvNets(to be redifined)
+#### 9. Visualizing ConvNets and Generating Images
 
-#### 9. Introduction to Object Detection
-#### 10. Object Detection with Detectron2
+### PART 4 - Object Detection
+
+#### 10. Introduction to Object Detection
+
+* What is Object Detection
+* Classification Vs Detection Vs Segmentation
+* Applications of Object Detection](#3)
+* Modern Object Detectors
+* Object Detection Metrics
+* Object Detection Datasets and Tools Landscape
+* The Challenges of Object Detection
+
+#### 11. Object Detection with Detectron2
+
 * Overview of Detectron2
 * Detectron2 Model Zoo
 * Performing Inference with Pretrained Detector
-#### 11. Modern Object Detectors in Practice
-* Vehicle Detection with Faster R-CNN
-* Fruits Detection with RetinaNet
-* Traffic and Road Signs Detection with Master R-CNN
 
-#### 11. Introduction to Image Segmentation
-#### 12. Image Segmentation In Practice
+#### 12. Modern Object Detectors in Practice
+* Vehicle Detection with Faster R-CNN
+
+### PART 5 - Pixel-Level Recognition
+
+#### 13. Introduction to Pixel Level Recognition
+
+* Pixel-level Recognition: Overview
 * Semantic Segmentation
 * Instance Segmentation
-* Panatonic Segmentation
+* Panoptic Segmentation
+* Pose Estimation
+* Modern Applications of Segmentation Tasks
+
+#### 14. Pixel-Level Recognition In Practice - Ongoing
+
+* Semantic Segmentation with DeepLabv3+ and PointRend
+* Instance Segmentation with Mask R-CNNN
+* Panatonic Segmentation with Panoptic FPN
+* Human Pose Estimation with Keypoint R-CNN
+
+### PART 6 - Recurrent Networks, Attention, and Vision Transformers
+
+#### 15. Recurrent Neural Networks
+
+* Introduction to Recurrent Neural Networks
+* The Downsides of Vanilla RNNs
+* Other Recurrent Networks: LSTMs & GRUs
+* Recurrent Networks for Computer Vision
+
+#### 16. Attention
+
+
 
 
 

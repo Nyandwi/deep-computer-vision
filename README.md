@@ -127,6 +127,11 @@ For used tools, check tools overview. For further Computer Vision learning resou
 #### 14. Introduction to Pixel Level Recognition
 
 * Pixel-level Recognition: Overview
+* Semantic Segmentation
+* Instance Segmentation
+* Panoptic Segmentation
+* Pose Estimation
+* Modern Applications of Segmentation Tasks
 
 #### 15. Pixel-Level Recognition In Practice - Ongoing
 * Semantic Segmentation with DeepLabv3+ and PointRend
@@ -134,7 +139,7 @@ For used tools, check tools overview. For further Computer Vision learning resou
 * Panatonic Segmentation with Panoptic FPN
 * Human Pose Estimation with Keypoint R-CNN
 
-### PART 6 - Recurrent Networks, Attention, and Vision Transformers
+### PART 6 - Recurrent Networks, Transformer, and Vision Transformers
 
 #### 16. Recurrent Neural Networks
 * Introduction to Recurrent Neural Networks
@@ -142,7 +147,7 @@ For used tools, check tools overview. For further Computer Vision learning resou
 * Other Recurrent Networks: LSTMs & GRUs
 * Recurrent Networks for Computer Vision
 
-#### 17. Attention - Coming Up
+#### 17. Attention and Transformer
 
 
 

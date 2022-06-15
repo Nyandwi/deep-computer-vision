@@ -139,7 +139,7 @@ For used tools, check tools overview. For further Computer Vision learning resou
 * Panatonic Segmentation with Panoptic FPN
 * Human Pose Estimation with Keypoint R-CNN
 
-### PART 6 - Recurrent Networks, Transformer, and Vision Transformers
+### PART 6 - Recurrent Networks, Attention, and Vision Transformers
 
 #### 16. Recurrent Neural Networks
 * Introduction to Recurrent Neural Networks

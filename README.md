@@ -8,6 +8,8 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 For used tools, check tools overview. For further Computer Vision learning resources, check further resources page.
 
+Release month: Aug-Oct 2022
+
 ## Outline
 
 ### PART 1 - Foundations of Computer Vision and Deep Learning
@@ -18,7 +20,7 @@ For used tools, check tools overview. For further Computer Vision learning resou
 - Industrial Applications of Computer Vision
 - History of Computer Vision
 - Typical Computer Vision Tasks
-- Challenges in Building - Computer Visions Systems
+- Computer Vision Systems Challenges
 - Computer Vision Tools Landscape
 
 #### 2. Basics of Image Processing
@@ -107,7 +109,7 @@ For used tools, check tools overview. For further Computer Vision learning resou
 #### 11. Introduction to Object Detection
 * What is Object Detection
 * Classification Vs Detection Vs Segmentation
-* Applications of Object Detection](#3)
+* Applications of Object Detection
 * Modern Object Detectors
 * Object Detection Metrics
 * Object Detection Datasets and Tools Landscape
@@ -133,13 +135,13 @@ For used tools, check tools overview. For further Computer Vision learning resou
 * Pose Estimation
 * Modern Applications of Segmentation Tasks
 
-#### 15. Pixel-Level Recognition In Practice - Ongoing
+#### 15. Pixel-Level Recognition In Practice
 * Semantic Segmentation with DeepLabv3+ and PointRend
 * Instance Segmentation with Mask R-CNNN
 * Panatonic Segmentation with Panoptic FPN
 * Human Pose Estimation with Keypoint R-CNN
 
-### PART 6 - Recurrent Networks, Attention, and Vision Transformers
+### PART 6 - Recurrent Networks, Attention, and Transformers
 
 #### 16. Recurrent Neural Networks
 * Introduction to Recurrent Neural Networks
@@ -149,6 +151,19 @@ For used tools, check tools overview. For further Computer Vision learning resou
 
 #### 17. Attention and Transformer
 
+* The Downsides of Recurrent Networks and Motivation of Transformers
+* Transformer Architecture
+    * Attention Function and Multi-Head Attention
+    * Embedding and Positional Encoding Layers
+    * Residual Connections, Layer Normalization, and Dropout
+    * Linear and Softmax Layers
+    * Encoder and Decoder
+* Advantages and Disadvantages of Self-Attention
+* Implementations of Transformer
+* Evolution of Large Language Transformer Models
+* Transformers Beyond NLP
+
+#### PART 7 - Vision Transformers - Upcoming yeee finally!
 
 
 

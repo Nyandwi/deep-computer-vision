@@ -163,7 +163,7 @@ Release month: Aug-Oct 2022
 * Evolution of Large Language Transformer Models
 * Transformers Beyond NLP
 
-#### PART 7 - Vision Transformers - Upcoming yeee finally!
+### PART 7 - Vision Transformers - Upcoming yeee finally!
 
 
 

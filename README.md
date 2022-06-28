@@ -8,7 +8,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 For used tools, check tools overview. For further Computer Vision learning resources, check further resources page.
 
-Release month: Aug-Oct 2022
+V1 Release month: Aug-Oct 2022
 
 ## Outline
 
@@ -153,7 +153,7 @@ Release month: Aug-Oct 2022
 
 * The Downsides of Recurrent Networks and Motivation of Transformers
 * Transformer Architecture
-    * Attention Function and Multi-Head Attention
+    * Attention and Multi-Head Attention
     * Embedding and Positional Encoding Layers
     * Residual Connections, Layer Normalization, and Dropout
     * Linear and Softmax Layers
@@ -163,7 +163,7 @@ Release month: Aug-Oct 2022
 * Evolution of Large Language Transformer Models
 * Transformers Beyond NLP
 
-### PART 7 - Vision Transformers - Upcoming yeee finally!
+### PART 7 - Vision Transformers for Visual Recognition
 
 
 

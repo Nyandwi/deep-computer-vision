@@ -1,6 +1,6 @@
 # Deep Learning for Computer Vision
 
-Visual data(such as images, video) are everywhere. Rougly, millions of images and videos are generated everyday. For instance, everyday, 95 million photos and 720.000 hours of videos are uploaded on Instagram and YouTube respectively. Computer Vision equipes us with different ways to process and understand such massive datasets in different areas of applications such as self-driving cars, medicine, streaming websites, etc... 
+Visual data(such as images, video) are everywhere. Rougly, millions of images and videos are generated everyday. For instance, everyday, 95 million photos and 720.000 hours of videos are uploaded on Instagram and YouTube respectively. Computer Vision equipes us with different ways to process and understand such massive datasets in different areas of applications such as self-driving cars, medicine, streaming websites, etc...
 
 Deep Learning has revolutionized Computer Vision. Thanks to the latest advances in deep learning techniques, frameworks, and algorithms, it's now possible to build, train, and evaluate visual recognition systems on real-world datasets.
 
@@ -164,7 +164,9 @@ V1 Release month: Aug-Oct 2022
 * Transformers Beyond NLP
 
 ### PART 7 - Vision Transformers for Visual Recognition
-
+#### 18. Introduction to Vision Transformers
+#### 19. Modern Vision Transformers
+#### 20. Vision Transformers for Dense Prediction Tasks 
 
 
 

@@ -1,4 +1,4 @@
-# Deep Learning for Computer Vision
+# Deep Learning for Computer Vision Package
 
 Visual data(such as images, video) are everywhere. Rougly, millions of images and videos are generated everyday. For instance, everyday, 95 million photos and 720.000 hours of videos are uploaded on Instagram and YouTube respectively. Computer Vision equipes us with different ways to process and understand such massive datasets in different areas of applications such as self-driving cars, medicine, streaming websites, etc...
 
@@ -165,8 +165,25 @@ V1 Release month: Aug-Oct 2022
 
 ### PART 7 - Vision Transformers for Visual Recognition
 #### 18. Introduction to Vision Transformers
-#### 19. Modern Vision Transformers
-#### 20. Vision Transformers for Dense Prediction Tasks 
+
+* Vision Transformer(ViT)
+  * Introduction to ViT
+  * Vision Transformer (ViT) Architecture
+  * Comparison of ViTs and ConvNets(ResNets)
+  * Scaling Vision Transformers
+  * Visualizing the Internal Representations of Vision Transformer
+* Training and Improving Vision Transformers
+  * Improving ViTs with Regularization and Augmentations
+  * Improving ViTs with Knowledge Distillation
+* Vision Transformers Beyond Image Classification
+* Implementations of Vits
+
+#### 19. Vision Transformers: Case Studies - COMING UP
+- DEtection TRansformer(DETR) for Object Detection
+- Swin Transformers
+#### 20. Interpreting Vision Transformers
+
+### PART 8 - Deep Generative Networks
 
 
 

@@ -178,7 +178,7 @@ V1 Release month: Aug-Oct 2022
 * Vision Transformers Beyond Image Classification
 * Implementations of Vits
 
-#### 19. Vision Transformers: Case Studies - COMING UP
+#### 19. Vision Transformers: Case Studies - Ongoing
 - DEtection TRansformer(DETR) for Object Detection
 - Swin Transformers
 #### 20. Interpreting Vision Transformers

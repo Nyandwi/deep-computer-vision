@@ -179,8 +179,12 @@ V1 Release month: Aug-Oct 2022
 * Implementations of Vits
 
 #### 19. Vision Transformers: Case Studies - Ongoing
+
 - DEtection TRansformer(DETR) for Object Detection
-- Swin Transformers
+- Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+- Vision Transformers for Mobile Applications
+- Vision Transformer Baselines for Human Pose Estimation
+
 #### 20. Interpreting Vision Transformers
 
 ### PART 8 - Deep Generative Networks

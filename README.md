@@ -8,7 +8,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 For used tools, check tools overview. For further Computer Vision learning resources, check further resources page.
 
-V1 Release month: Aug-Oct 2022
+V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package :-D)
 
 ## Outline
 
@@ -178,14 +178,13 @@ V1 Release month: Aug-Oct 2022
 * Vision Transformers Beyond Image Classification
 * Implementations of Vits
 
-#### 19. Vision Transformers: Case Studies - Ongoing
+#### 19. Vision Transformers: Case Studies
 
 - DEtection TRansformer(DETR) for Object Detection
 - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 - Vision Transformers for Mobile Applications
-- Vision Transformer Baselines for Human Pose Estimation
 
-#### 20. Interpreting Vision Transformers
+#### 20. Interpreting Vision Transformers - Upcoming
 
 ### PART 8 - Deep Generative Networks
 

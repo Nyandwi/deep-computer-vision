@@ -176,7 +176,7 @@ V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package :-D)
   * Improving ViTs with Regularization and Augmentations
   * Improving ViTs with Knowledge Distillation
 * Vision Transformers Beyond Image Classification
-* Implementations of Vits
+* Implementations of ViTs
 
 #### 19. Vision Transformers: Case Studies
 
@@ -184,9 +184,16 @@ V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package :-D)
 - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 - Vision Transformers for Mobile Applications
 
-#### 20. Interpreting Vision Transformers - Upcoming
+### PART 8 - Deep Generative Networks - Upcoming
+To cover:
+* Introduction to deep generative networks
+* Auto-regressive generative networks
+* Variation AutoEncoders(VAE)
+* GANs
+* Diffusion Models
+* Image Generation State of the Arts 2022
 
-### PART 8 - Deep Generative Networks
+#### 20. Introduction to Deep Generative Networks
 
 
 

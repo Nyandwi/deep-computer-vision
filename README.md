@@ -185,15 +185,21 @@ V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package :-D)
 - Vision Transformers for Mobile Applications
 
 ### PART 8 - Deep Generative Networks - Upcoming
-To cover:
-* Introduction to deep generative networks
-* Auto-regressive generative networks
-* Variation AutoEncoders(VAE)
-* GANs
-* Diffusion Models
-* Image Generation State of the Arts 2022
 
+To cover:
+* Auto-regressive generative networks
+* AutoEncoders(AE) and Variation AutoEncoders(VAE)
+* Generative Adversarial Networks(GANs)
+* Diffusion Models
+* Image Generation State of the Arts: Text-Image generation
+* Image Generation State of the Arts: Text-Video Generation
 #### 20. Introduction to Deep Generative Networks
+
+* Introducing Generative Models: Supervised and Unsupervised Learning, Generative and Discriminative Models
+* Applications of Generative Models
+* Recent Breakthroughs in Generative modelling
+
+
 
 
 

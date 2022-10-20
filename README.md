@@ -4,11 +4,13 @@ Visual data(such as images, video) are everywhere. Rougly, millions of images an
 
 Deep Learning has revolutionized Computer Vision. Thanks to the latest advances in deep learning techniques, frameworks, and algorithms, it's now possible to build, train, and evaluate visual recognition systems on real-world datasets.
 
-This is Deep Learning for Computer Vision Package. It is designed exactly like Complete Machine Learning Package, but it's even better. It covers foundations of computer vision and deep learning, state-of-the-arts visual architectures(such as ConvNets and Vision Transformer), various Computer Vision tasks(such as image classification, object detection and segmentation), tips and tricks for training and analyzing visual recognition systems.
+This is Deep Learning for Computer Vision Package. It is designed exactly like Complete Machine Learning Package, but it's even better. It covers foundations of computer vision and deep learning, state-of-the-arts visual architectures(such as ConvNets and Vision Transformers), various Computer Vision tasks(such as image classification, object detection and segmentation), tips and tricks for training and analyzing visual recognition systems.
 
 For used tools, check tools overview. For further Computer Vision learning resources, check further resources page.
 
-V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package :-D)
+V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package :-D). LATE BUT OKAY!
+
+[This may grow into something more respectable(courtsey of Andrej)]
 
 ## Outline
 

@@ -8,9 +8,9 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 For used tools, check tools overview. For further Computer Vision learning resources, check further resources page.
 
-V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package :-D). LATE BUT OKAY!
+V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package). LATE BUT OKAY!
 
-[This may grow into something more respectable(courtsey of Andrej)]
+(This may grow into something more respectable)
 
 ## Outline
 
@@ -190,7 +190,7 @@ V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package :-D). LAT
 
 To cover:
 * Auto-regressive generative networks
-* AutoEncoders(AE) and Variation AutoEncoders(VAE)
+* Variation AutoEncoders(VAE)
 * Generative Adversarial Networks(GANs)
 * Diffusion Models
 * Image Generation State of the Arts: Text-Image generation
@@ -200,6 +200,18 @@ To cover:
 * Introducing Generative Models: Supervised and Unsupervised Learning, Generative and Discriminative Models
 * Applications of Generative Models
 * Recent Breakthroughs in Generative modelling
+
+#### 21. Deep Autoregressive Generative Networks
+
+* Introduction to autoregressive models
+* Auto-regressive models architectures
+  * Pixel Recurrent Neural Networks - PixelRNN
+  * Pixel Convolutional Neural Networks - PixelCNN
+  * Image Transformer
+  * Image GPT - Generative Pretraining from Pixels
+* Advantages and disadvantages of autoregressive models
+
+#### 22. Variation AutoEncoders(VAE) - Ongoing
 
 
 

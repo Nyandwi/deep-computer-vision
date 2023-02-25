@@ -8,7 +8,10 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 For used tools, check tools overview. For further Computer Vision learning resources, check further resources page.
 
-V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package). LATE BUT OKAY!
+#### Release Notes
+* [2022] V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package). LATE BUT OKAY!
+* [25 Feb 2023] No progress has been made in almost 4 months(a year tbh) but okay. This repo is a proof that 1% percent of the whole work was done and 99% remaining can be done. Don't compromise on the quality for time.
+
 
 (This may grow into something more respectable)
 
@@ -127,7 +130,6 @@ V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package). LATE BU
 * Vehicle Detection with Faster R-CNN
 
 ### PART 5 - Pixel-Level Recognition
-
 #### 14. Introduction to Pixel Level Recognition
 
 * Pixel-level Recognition: Overview
@@ -185,6 +187,7 @@ V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package). LATE BU
 - DEtection TRansformer(DETR) for Object Detection
 - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 - Vision Transformers for Mobile Applications
+- MaskFormer, Mask2Former, Uniformer(TBD)
 
 ### PART 8 - Deep Generative Networks - Upcoming
 

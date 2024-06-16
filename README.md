@@ -19,7 +19,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 ### PART 1 - Foundations of Computer Vision and Deep Learning
 
-#### 1. Introduction to Computer Vision: [Notebook](./1-introduction/1_intro_to_computer_vision.ipynb)
+#### 1. Introduction to Computer Vision | [Notebook](./1-introduction/1_intro_to_computer_vision.ipynb)
 
 - What is Computer Vision
 - Industrial Applications of Computer Vision
@@ -28,7 +28,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 - Computer Vision Systems Challenges
 - Computer Vision Tools Landscape
 
-#### 2. Basics of Image Processing: [Notebook](./1-introduction/2_image_processing.ipynb)
+#### 2. Basics of Image Processing | [Notebook](./1-introduction/2_image_processing.ipynb)
 
 * Intro to Image Processing
 * Image Color Channels

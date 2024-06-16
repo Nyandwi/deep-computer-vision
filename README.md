@@ -6,14 +6,14 @@ Deep Learning has revolutionized Computer Vision. Thanks to the latest advances 
 
 This is Deep Learning for Computer Vision Package. It is designed exactly like Complete Machine Learning Package, but it's even better. It covers foundations of computer vision and deep learning, state-of-the-arts visual architectures(such as ConvNets and Vision Transformers), various Computer Vision tasks(such as image classification, object detection and segmentation), tips and tricks for training and analyzing visual recognition systems.
 
-For used tools, check tools overview. For further Computer Vision learning resources, check further resources page.
+<!-- For used tools, check tools overview. For further Computer Vision learning resources, check further resources page. -->
 
 #### Release Notes
+* [16 June 2024] Releasing the first draft after several months on hold due to grad school. Depending on the interests, we can add more remaining chapters, add more resources, and build navigable webpage around the materials. Feedback welcome!
 * [2022] V1 Release month: Aug-Oct 2022, or Sept 26(would be same as ML package). LATE BUT OKAY!
 * [25 Feb 2023] No progress has been made in almost 4 months(a year tbh) but okay. This repo is a proof that 1% percent of the whole work was done and 99% remaining can be done. Don't compromise on the quality for time.
 
 
-(This may grow into something more respectable)
 
 ## Outline
 

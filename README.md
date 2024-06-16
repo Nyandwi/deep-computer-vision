@@ -21,7 +21,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 #### 1. Introduction to Computer Vision
 
-- What is Computer Vision
+- [What is Computer Vision](./1-introduction/1_intro_to_computer_vision.ipynb)
 - Industrial Applications of Computer Vision
 - History of Computer Vision
 - Typical Computer Vision Tasks

@@ -19,16 +19,16 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 ### PART 1 - Foundations of Computer Vision and Deep Learning
 
-#### 1. Introduction to Computer Vision
+#### 1. Introduction to Computer Vision: [Notebook](./1-introduction/1_intro_to_computer_vision.ipynb)
 
-- [What is Computer Vision](./1-introduction/1_intro_to_computer_vision.ipynb)
+- What is Computer Vision
 - Industrial Applications of Computer Vision
 - History of Computer Vision
 - Typical Computer Vision Tasks
 - Computer Vision Systems Challenges
 - Computer Vision Tools Landscape
 
-#### 2. Basics of Image Processing
+#### 2. Basics of Image Processing: [Notebook](./1-introduction/2_image_processing.ipynb)
 
 * Intro to Image Processing
 * Image Color Channels
@@ -39,7 +39,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 * Drawing Bounding Boxes On Image
 * Image Histograms and Histograms Equalization
 
-#### 3. Fundamentals of Deep Learning
+#### 3. Fundamentals of Deep Learning | [Notebook](./1-introduction/3_intro_deep_learning.ipynb)
 * What is Neural Networks and Deep Learning?
 * The History of Neural Networks
 * Types of Neural Networks Architectures
@@ -54,7 +54,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 * Neural Networks and Biological Networks
 
-#### 4. Image Classification with Artificial Neural Networks
+#### 4. Image Classification with Artificial Neural Networks | [Notebook](./1-introduction/4_image_classification.ipynb)
 
 * What is Image Classification?
 * Types of Image Classification Problems
@@ -66,7 +66,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 ### PART 2 - Convolutional Neural Networks
 
-#### 6. Intro to Convolutional Neural Networks
+#### 6. Intro to Convolutional Neural Networks | [Notebook](./2-convnets/1-introduction-to-convnets.ipynb)
 
 * Fully Connected Layers
 * Typical Components of ConvNets
@@ -77,7 +77,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 * Other Types of Convolution Layers
 * Coding ConvNets: Cifar10 Classification
 
-#### 6. Modern ConvNets Architectures
+#### 6. Modern ConvNets Architectures | [Notebook](./3-convnets-architectures/)
 
 * AlexNet - Deep Convolutional Neural Networks
   
@@ -111,7 +111,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 #### 10. Visualizing ConvNets and Generating Images(TBD)
 
 ### PART 4 - Object Detection
-#### 11. Introduction to Object Detection
+#### 11. Introduction to Object Detection | [Notebook](./4-object-detection-segmentation/1-intro-object-detection.ipynb)
 * What is Object Detection
 * Classification Vs Detection Vs Segmentation
 * Applications of Object Detection
@@ -120,17 +120,18 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 * Object Detection Datasets and Tools Landscape
 * The Challenges of Object Detection
 
-#### 12. Object Detection with Detectron2
+#### 12. Object Detection with Detectron2 | [Notebook](./4-object-detection-segmentation/2-intro-detectron2.ipynb)
 
 * Overview of Detectron2
 * Detectron2 Model Zoo
 * Performing Inference with Pretrained Detector
 
-#### 13. Modern Object Detectors in Practice
+#### 13. Modern Object Detectors in Practice | [Notebook](./4-object-detection-segmentation/3-vehicle-detection.ipynb)
 * Vehicle Detection with Faster R-CNN
 
 ### PART 5 - Pixel-Level Recognition
-#### 14. Introduction to Pixel Level Recognition
+
+#### 14. Introduction to Pixel Level Recognition | [Notebook](./4-object-detection-segmentation/4-intro-segmentation.ipynb)
 
 * Pixel-level Recognition: Overview
 * Semantic Segmentation
@@ -140,20 +141,20 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 * Modern Applications of Segmentation Tasks
 
 #### 15. Pixel-Level Recognition In Practice
-* Semantic Segmentation with DeepLabv3+ and PointRend
-* Instance Segmentation with Mask R-CNNN
-* Panatonic Segmentation with Panoptic FPN
-* Human Pose Estimation with Keypoint R-CNN
+* Semantic Segmentation with DeepLabv3+ and PointRend 
+* Instance Segmentation with Mask R-CNNN | [Notebook](./4-object-detection-segmentation/6-instance-segmentation.ipynb)
+* Panatonic Segmentation with Panoptic FPN | [Notebook](./4-object-detection-segmentation/7-panoptic-segmentation.ipynb)
+* Human Pose Estimation with Keypoint R-CNN | [Notebook](./4-object-detection-segmentation/8-human-pose-estimation.ipynb)
 
 ### PART 6 - Recurrent Networks, Attention, and Transformers
 
-#### 16. Recurrent Neural Networks
+#### 16. Recurrent Neural Networks | [Notebook](./4-rnns-attention/1-recurrent-networks.ipynb)
 * Introduction to Recurrent Neural Networks
 * The Downsides of Vanilla RNNs
 * Other Recurrent Networks: LSTMs & GRUs
 * Recurrent Networks for Computer Vision
 
-#### 17. Attention and Transformer
+#### 17. Attention and Transformer | [Notebook](./4-rnns-attention/2-attention-transformer.ipynb)
 
 * The Downsides of Recurrent Networks and Motivation of Transformers
 * Transformer Architecture
@@ -168,7 +169,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 * Transformers Beyond NLP
 
 ### PART 7 - Vision Transformers for Visual Recognition
-#### 18. Introduction to Vision Transformers
+#### 18. Introduction to Vision Transformers | [Notebook](./5-vision-transformers/1-intro-vision-transformer.ipynb)
 
 * Vision Transformer(ViT)
   * Introduction to ViT
@@ -184,27 +185,26 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 
 #### 19. Vision Transformers: Case Studies
 
-- DEtection TRansformer(DETR) for Object Detection
-- Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
-- Vision Transformers for Mobile Applications
+- DEtection TRansformer(DETR) for Object Detection | [Notebook](./5-vision-transformers/2-detr.ipynb)
+- Swin Transformer: Hierarchical Vision Transformer using Shifted Windows | [Notebook](./5-vision-transformers/3-swin-transformer.ipynb)
+- Vision Transformers for Mobile Applications | [Notebook](./5-vision-transformers/5-vision-transformers-mobile.ipynb)
 - MaskFormer, Mask2Former, Uniformer(TBD)
 
 ### PART 8 - Deep Generative Networks - Upcoming
-
-To cover:
+<!-- To cover:
 * Auto-regressive generative networks
 * Variation AutoEncoders(VAE)
 * Generative Adversarial Networks(GANs)
 * Diffusion Models
 * Image Generation State of the Arts: Text-Image generation
-* Image Generation State of the Arts: Text-Video Generation
-#### 20. Introduction to Deep Generative Networks
+* Image Generation State of the Arts: Text-Video Generation -->
+#### 20. Introduction to Deep Generative Networks | [Notebook](./6-generative-networks/1-intro-generative-networks.ipynb)
 
 * Introducing Generative Models: Supervised and Unsupervised Learning, Generative and Discriminative Models
 * Applications of Generative Models
 * Recent Breakthroughs in Generative modelling
 
-#### 21. Deep Autoregressive Generative Networks
+#### 21. Deep Autoregressive Generative Networks | [Notebook](./6-generative-networks/2-autoregressive-generative-networks.ipynb)
 
 * Introduction to autoregressive models
 * Auto-regressive models architectures
@@ -214,7 +214,7 @@ To cover:
   * Image GPT - Generative Pretraining from Pixels
 * Advantages and disadvantages of autoregressive models
 
-#### 22. Variation AutoEncoders(VAE) - Ongoing
+#### 22. Variation AutoEncoders(VAE), Ongoing | [Notebook](./6-generative-networks/3-variation-auto-encoders.ipynb)
 
 
 

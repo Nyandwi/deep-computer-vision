@@ -1,5 +1,9 @@
 # Deep Learning for Computer Vision Package
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nyandwi/deep-computer-vision)
+
+
 Visual data(such as images, video) are everywhere. Rougly, millions of images and videos are generated everyday. For instance, everyday, 95 million photos and 720.000 hours of videos are uploaded on Instagram and YouTube respectively. Computer Vision equipes us with different ways to process and understand such massive datasets in different areas of applications such as self-driving cars, medicine, streaming websites, etc...
 
 Deep Learning has revolutionized Computer Vision. Thanks to the latest advances in deep learning techniques, frameworks, and algorithms, it's now possible to build, train, and evaluate visual recognition systems on real-world datasets.

@@ -141,7 +141,7 @@ This is Deep Learning for Computer Vision Package. It is designed exactly like C
 * Modern Applications of Segmentation Tasks
 
 #### 15. Pixel-Level Recognition In Practice
-* Semantic Segmentation with DeepLabv3+ and PointRend 
+* Semantic Segmentation with DeepLabv3+ and PointRend | [Notebook](./4-object-detection-segmentation/5-semantic-segmentation.ipynb)
 * Instance Segmentation with Mask R-CNNN | [Notebook](./4-object-detection-segmentation/6-instance-segmentation.ipynb)
 * Panatonic Segmentation with Panoptic FPN | [Notebook](./4-object-detection-segmentation/7-panoptic-segmentation.ipynb)
 * Human Pose Estimation with Keypoint R-CNN | [Notebook](./4-object-detection-segmentation/8-human-pose-estimation.ipynb)
